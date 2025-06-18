@@ -1,4 +1,4 @@
-set -o error 
+set -e error 
 
 pip install -r requirements.txt
 
